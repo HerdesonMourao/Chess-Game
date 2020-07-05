@@ -9,6 +9,7 @@ public class Piece {
 		position = null;
 	}
 
+	//Get
 	protected Board getBoard() {
 		return board;
 	}
