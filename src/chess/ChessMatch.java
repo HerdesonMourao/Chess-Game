@@ -13,6 +13,7 @@ public class ChessMatch {
 		initialSetup();
 	}
 	
+	//Methods
 	public ChessPiece[][] getPieces() {
 		ChessPiece[][] mat = new ChessPiece[board.getRows()][board.getColumns()];
 		
